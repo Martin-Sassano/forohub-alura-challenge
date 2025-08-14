@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # ForoHub - API de Foro de Consultas Técnicas
 
@@ -192,3 +193,6 @@ http://localhost:8080/swagger-ui/index.html
 Desarrollado como parte del desafío final de Alura + Oracle ONE Back-End.
 
 ---
+=======
+# forohub-alura-challenge
+>>>>>>> 906f5f9a884aac1eb4fcedca1f0ed198989c08fb
